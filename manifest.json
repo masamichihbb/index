@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2
+  "name": "Ssaittogh",
+  "short_name": "Ssaittogh",
+  "icons": [{
+    "src": "./ssaittogh_81.png",
+    "sizes": "81x81",
+    "type": "image/png"
+  }],
+
+  "icons": [{
+    "src": "./ssaittogh_181.png",
+    "sizes": "181x181",
+    "type": "image/png"
+  }],
+
+  "icons": [{
+    "src": "./ssaittogh_512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+
+  "theme_color": "#ffffff",
+  "background_color": "000000",
+  "display": "standalone",
+  "start_url": "./ssaittogh.html"
+}
