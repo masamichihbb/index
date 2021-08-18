@@ -1,5 +1,33 @@
 body {color: white;background-color: black;font-family: -apple-system, 'BlinkMacSystemFont', 'Hiragino kaku Gothic ProN', 'メイリオ', Sans-Serif;
 text-align: center;}
-.waku a img {border:1px solid grey;}
-.waku a:active img {border:1px solid black;}
+@media screen and (max-width: 767px) {
+  .hamburger {
+    width: 44px;
+    height: 44px;
+    display: block;
+    position: fixed;
+    top: 0;
+    right: 8px;
+    z-index: 20;
+    cursor: pointer;
+  }
+  .hamburger span {
+    width: 16px;
+    height: 1px;
+    background: #fff;
+    position: absolute;
+    left: 14px;
+    transition: 0.3s ease-in-out;
+  }
+  .hamburger span:nth-child(1) {
+    top: 18px;
+  }
+  .hamburger span:nth-child(2) {
+    top: 26px;
+  }
 
+ ・
+ ・
+ ・
+ 
+}
