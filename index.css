@@ -2,4 +2,4 @@ body {color: white;background-color: black;font-family: -apple-system, 'BlinkMac
 text-align: center;}
 .waku a img {border:1px solid grey;}
 .waku a:active img {border:1px solid black;}
-
+.waku:active{border:1px solid black;}
