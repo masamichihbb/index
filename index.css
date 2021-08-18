@@ -7,7 +7,7 @@ text-align: center;}
     display: block;
     position: fixed;
     top: 0;
-    right: 8px;
+    left: 8px;
     z-index: 20;
     cursor: pointer;
   }
