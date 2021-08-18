@@ -5,9 +5,9 @@ text-align: center;}
     width: 44px;
     height: 44px;
     display: block;
-    position: left;
+    position: fixed;
     top: 0;
-    right: 8px;
+    left: 8px;
     z-index: 20;
     cursor: pointer;
   }
