@@ -31,3 +31,18 @@ text-align: center;}
  ・
  
 }
+@media screen and (max-width: 767px) {
+
+・
+・
+・
+
+  .hamburger.active span:nth-child(1) {
+    top: 22px;
+    transform: rotate(-45deg);
+  }
+  .hamburger.active span:nth-child(2) {
+    top: 22px;
+    transform: rotate(45deg);
+  }
+}
