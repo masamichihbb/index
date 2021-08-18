@@ -1,5 +1,5 @@
 body {color: white;background-color: black;font-family: -apple-system, 'BlinkMacSystemFont', 'Hiragino kaku Gothic ProN', 'メイリオ', Sans-Serif;
 text-align: center;}
 .waku a img {border:1px solid grey;}
-.waku a:hover img {border:1px solid black;}
+.waku a:active img {border:1px solid black;}
 
